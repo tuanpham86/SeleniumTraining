@@ -1,4 +1,4 @@
-package TestNG;
+package seleniumDemo;
 
 
 import static org.junit.Assert.*;

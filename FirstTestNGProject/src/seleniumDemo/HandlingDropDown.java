@@ -1,4 +1,4 @@
-package TestNG;
+package seleniumDemo;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.*;
